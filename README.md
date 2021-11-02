@@ -1,1 +1,1 @@
-Senntiment analysis on IMDB movie review data
+Sentiment analysis on IMDB movie review data
